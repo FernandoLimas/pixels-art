@@ -63,7 +63,7 @@ function geraBoard(num) {
 }
 
 window.onload = function () {
-  geraBoard(5);
+  geraBoard(10);
 }
 
 // apagar
