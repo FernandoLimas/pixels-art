@@ -12,7 +12,7 @@
 
 ## O que será desenvolvido
 
-- Implementar uma página web que contém uma paleta de cores funcional que poderá ser utilizada para criar desenhos em pixels. Para isto utilizar `javascript`, `css` e `html`.
+- Implementar uma página web que contém uma paleta de cores funcional que poderá ser utilizada para criar desenhos em pixels. Para isto utilizei `javascript`, `css` e `html`.
 
 ---
 
